@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#001f5f</color>
+    <color name="colorPrimaryDark">#031349</color>
+    <color name="colorAccent">#e2231a</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorFadedGrey">#97ffffff</color>
+    <color name="colorYellowButtons">#ffaa00</color>
+    <color name="colorTitle">#464855</color>
+    <color name="colorTextGrey">#7f8fa4</color>
+    <color name="colorLink">#249af3</color>
+    <color name="colorTextHeadline">#7f8fa4</color>
+    <color name="colorBorder">#e4e9f2</color>
+    <color name="colorTextButton">#0e1b42</color>
+    <color name="colorGreySubTitle">#222b45</color>
+    <color name="colorFadedWhite">#C9DCF1</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <color name="colorInActive">#6f7faf</color>
+
+</resources>
